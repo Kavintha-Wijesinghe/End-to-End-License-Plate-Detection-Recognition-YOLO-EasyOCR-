@@ -1,5 +1,10 @@
 # End-to-End-Automatic-License-Plate-Recognition-(YOLOv9-EasyOCR)-
 
+**Technologies**: Python, YOLOv9, EasyOCR, OpenCV, PyTorch
+
+## <b>Here is a demo containing the project output:</b><br>
+<img src="https://github.com/Kavintha-Wijesinghe/End-to-End-License-Plate-Detection-Recognition-YOLO-EasyOCR-/blob/main/output_.gif?raw=true" width="50%">
+
 This project detects license plates in images or videos using **YOLOv9** (You Only Look Once) and extracts the plate text using **EasyOCR**.
 
 ## 📌 Features
