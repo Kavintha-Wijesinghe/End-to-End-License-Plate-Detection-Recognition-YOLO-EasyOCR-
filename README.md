@@ -68,8 +68,11 @@ python detect_with_ocr.py --weights yolo.pt --source 0 --view-img
 
 ## 🖼 Example Output
 Detected plate with OCR text overlay:
-
-![example](https://user-images.githubusercontent.com/example/demo_output.jpg)
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github.com/Kavintha-Wijesinghe/End-to-End-License-Plate-Detection-Recognition-YOLO-EasyOCR-/blob/main/Example%20outputs/download.jpeg?raw=true" alt="Image 1" width="30%">
+  <img src="https://github.com/Kavintha-Wijesinghe/End-to-End-License-Plate-Detection-Recognition-YOLO-EasyOCR-/blob/main/Example%20outputs/download%20(1).jpeg?raw=true" alt="Image 2" width="30%">
+  <img src="https://github.com/Kavintha-Wijesinghe/End-to-End-License-Plate-Detection-Recognition-YOLO-EasyOCR-/blob/main/Example%20outputs/download%20(2).jpeg?raw=true" alt="Image 3" width="30%">
+</div>
 
 ## 📂 Results
 Results (images/videos + labels) are saved to:
