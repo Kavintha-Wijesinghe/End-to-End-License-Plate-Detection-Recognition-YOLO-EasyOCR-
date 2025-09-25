@@ -1,6 +1,6 @@
-# End-to-End-License-Plate-Detection-Recognition-(YOLO-EasyOCR)-
+# End-to-End-Automatic-License-Plate-Recognition-(YOLOv9-EasyOCR)-
 
-This project detects license plates in images or videos using **YOLO** (You Only Look Once) and extracts the plate text using **EasyOCR**.
+This project detects license plates in images or videos using **YOLOv9** (You Only Look Once) and extracts the plate text using **EasyOCR**.
 
 ## 📌 Features
 - **YOLO-based object detection** for robust license plate localization.
